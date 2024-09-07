@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+theme: jekyll
 title: Slava Kukuyev
 descriptin: Slava Kukuyev github.io project
+
+---
+layout: home
+---
