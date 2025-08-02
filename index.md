@@ -4,83 +4,100 @@ title: Slava Kukuyev
 ---
 
 
-# Slava Kukuyev
+# SLAVA KUKUYEV
 
-## Senior Software Engineer & Backend Developer  
-
----
-
-## Summary
-
-Software engineer leveraging 12+ years of expertise in back-end development, technical project management, process automation,
-and data analytics to deliver next-generation enterprise applications and systems on cloud-based platforms such as GCP and AWS.
-
-* Proven track record of aligning people, processes, and technologies across the software development life cycle (SDLC) to drive on-
-time, on-budget delivery of transformational technology solutions that deliver exceptional user experiences.
-* Extensive experience in managing and streamlining solutions architecture, application development, data lake/data warehouse/data
-store implementations, and QA/process automation efforts, resulting in scalable, high-quality applications and infrastructure.
-* Excels in mentoring and supporting high-performing development teams while establishing robust cross-functional relationships
-across the organization to gather business requirements, foster alignment on product roadmaps, and drive seamless solutions delivery.
+> **Senior Backend Engineer** | Open to Remote Opportunities  
+> [LinkedIn](https://www.linkedin.com/in/slavakukuyev/)
 
 ---
 
-## Core Competencies
+## 👨‍💻 Professional Summary
 
-Software Engineering \| Backend Development \| Cloud Infrastructure \| Microservices Architecture \| Systems Engineering \| Solutions
-Architecture \| Object-Oriented Programming (OOP) \| Continuous Integration & Continuous Delivery (CI/CD) \| SDLC Management \| Software
-Testing \| Troubleshooting & Debugging \| Agile Methodologies \| Process Improvement & Automation \| Data Analytics \| Mentoring & Coaching
+Results-driven software engineer with **13+ years** of experience building and optimizing backend systems and cloud-based services. Expertise in **Go** and **Node.js** development, distributed microservices architecture, and scalable cloud infrastructure (AWS, GCP). 
 
----
+Proven track record of streamlining development processes and collaborating within high-performing Agile teams to design and deliver secure, high-quality solutions, while mentoring peers and contributing to a culture of technical excellence.
 
-## Technical Skills
+In current role, contributed to a team delivering reliable **POV (Proof of Value)** integrations—achieving **zero customer-reported errors** and meeting feature expectations for **98% of participants**—demonstrating strong product maturity and customer satisfaction.
 
-**Languages**: Go, Node.js \| **Cloud Platforms**: GCP, AWS \| **Data Tools**: Kafka, Redis, MongoDB, BigQuery \| **Monitoring/Logging**: Prometheus, ElasticSearch \| **CI/CD**: Jenkins \| **Containerization**: Kubernetes \| **Configuration Management**: Ansible
+Adept at leveraging **AI-driven development tools** (Claude, Cursor, OpenAI, etc.) to accelerate delivery and drive innovation in software projects.
 
 ---
 
-## Professional Experience
+## 🚀 Core Competencies
 
-### Senior Backend Engineer \| Salt Security, Tel Aviv, Israel \| 2024 - Present
+- **Backend Development & System Architecture**
+- **Microservices & Cloud-Based Infrastructure** (AWS, GCP, Azure)
+- **Containerization & Orchestration** (Docker, Kubernetes)
+- **Continuous Integration/Continuous Delivery** (CI/CD) Pipelines & DevOps
+- **Observability & Monitoring**
+- **Data Streaming & Storage**
+- **AI-driven Development Tools & Automation**
 
-### Senior Backend Engineer \| HUMAN Security, Tel Aviv, Israel \| 2022 - 2023
-* Oversee daily engineering activities, focusing on requirements gathering, solutions design, and production support.
-* Develop testing frameworks and centralized logging solutions, improving code quality and resource efficiency.
-* Foster continuous learning within the team by promoting knowledge sharing and mentoring.
+---
 
+## 🛠️ Technical Skills
 
-### Senior Backend Engineer | HUMAN Security, Tel Aviv, Israel 2022 to Present
-- Oversee and support day-to-day software engineering activities, with oversight of all requirements gathering, solutions design,
-production support, troubleshooting and debugging, and stakeholder communications.
-- Collaborate cross-functionally on multiple initiatives to optimize the SDLC, enhance code quality, scale systems, improve service
-stability, and maximize resource efficiency, including:
-   - Developing integration testing frameworks to enhance service stability in development and Continuous Integration (CI)
-   - Creating an internal, centralized logging solution that eliminated third-party logging service costs and improved log visibility.
-   - Refining the codebase and improving data structure to improve service performance and response times.
-- Foster a culture of continuous learning and improvement by sharing technical expertise with the engineering team, promoting knowledge
-dissemination and skill development.
+| Category | Technologies |
+|----------|-------------|
+| **Programming** | Go (Golang), Node.js |
+| **Cloud Platforms** | AWS, GCP, Azure |
+| **Databases & Data** | Redis, MongoDB, Kafka |
+| **DevOps & Infra** | Docker, Kubernetes, Helm, GitHub Actions/Jenkins, Ansible/Terraform |
+| **Monitoring** | Prometheus, Grafana, Datadog, Coralogix, Groundcover |
+| **AI Tools** | Cursor, Anthropic Claude, OpenAI, Microsoft Copilot, Google Gemini |
 
-### Full Stack Engineer | Anzu.io, Tel Aviv, Israel 2017 to 2022
-- Designed, developed, and maintained secure company intranet sites while implementing process improvements to enhance internal
-communication and ensure data integrity across diverse environments.
-- Created robust streaming data services, introduced cloud-based data processing solutions, and re-engineered datasets and data
-structures to establish best-in-class data exploration and analytics capabilities that improved operational efficiency and scalability.
-- Owned project plans, schedules, budgets, timelines, and deliverables for multiple concurrent enterprise projects while effectively
-managing changing priorities, resulting in seamless, on-time, and on-budget solutions delivery.
+---
 
-### Backend Developer | SpotOption, Ramat Gan, Israel 2012 to 2017
-- Drove a comprehensive redesign and optimization of the internal management web environment (including strengthening real-time big
-data streaming capabilities) to drive greater operational efficiencies, regulatory compliance, and systems reliability.
-- Developed and implemented a suite of robust, data-driven internal risk management tools and streamlined database schemas to
-decrease API request latency, elevating user experience.
-- Oversaw the selection, integration, and maintenance of new technologies and best practices to maximize IT systems/infrastructure
-performance, in addition to providing technical support and troubleshooting for strategic partners as needed.
+## 💼 Professional Experience
 
-### Web Developer | Townzi (Social Network Start-Up), Modi’in, Israel 2011 to 2012
-- Drove solutions architecture, full-stack development, and SDLC management efforts to design and implement web solutions, portals,
-and interfaces while enhancing code efficiency, reusability, and testability to improve the codebase.
-Freelance Web Developer | Izrailov Private Tours Ltd., Tel Aviv, Israel 2011
-- Architected and developed user-friendly landing pages and user interfaces to enable greater automation of customer communications
-and improve user engagement and experience across all touchpoints.
+### **Senior Software Engineer** | [Salt Security](https://salt.security/)
+*Tel Aviv, Israel | 2024 – Present*
 
-## Contact Info
-[LinkedIn](https://www.linkedin.com/in/slavakukuyev/)
+- 🚀 **Driving edge computing innovation** by integrating Golang microservices and RESTful APIs on Kubernetes clusters
+- ☁️ **Managing cloud-based deployments** and infrastructure with Helm and GitOps across AWS, GCP, Azure
+- 🛠️ **Building CLI tools and web interfaces** to improve system observability
+- 📊 **Implementing logging/monitoring** using Datadog, Grafana, and Groundcover
+- 🤖 **Leveraging AI tools** (ChatGPT, Copilot, Claude, Gemini) to speed up development workflows
+- 👥 **Collaborating with support teams** to prioritize customer needs, implementing impactful features and optimizations on Linux systems and Kubernetes environments
+
+### **Senior Backend Engineer** | [HUMAN Security](https://www.humansecurity.com/)
+*Tel Aviv, Israel | 2022 – 2023*
+
+- 🏗️ **Led backend architectural design** and implementation for scalable services
+- 🧪 **Built integration testing frameworks** and internal logging systems
+- ⚡ **Optimized service code and data structures** to improve performance
+- 👨‍🏫 **Mentored engineering teams** in best practices and knowledge sharing
+
+### **Full Stack Engineer** | [Anzu](http://anzu.io)
+*Tel Aviv, Israel | 2017 – 2022*
+
+- 📈 **Developed internal dashboards and tools** to support data visibility
+- 🔄 **Created streaming pipelines** for analytics and reporting
+- ✅ **Delivered concurrent enterprise projects** on time and within budget
+
+### **Backend Developer** | SpotOption
+*Ramat Gan, Israel | 2012 – 2017*
+
+- 🔧 **Redesigned internal management systems** for higher performance and compliance-readiness
+- ⚡ **Built real-time risk assessment tools** and optimized backend schema for latency reduction
+- 🔄 **Evaluated and integrated new technologies** for improved partner support and system stability
+
+### **Freelance, Junior Positions**
+*2011-2012*
+
+---
+
+## 🌍 Languages
+
+- **English**
+- **Hebrew** 
+- **Russian**
+
+---
+
+<div align="center">
+
+*Open to new opportunities and collaborations* 🤝
+
+</div>
+
